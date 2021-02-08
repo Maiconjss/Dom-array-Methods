@@ -1,2 +1,3 @@
+
 # Dom-array-Methods
-Mini projeto com o intuito de facilitar a manipulação de arrays com foco em apresentar dados para o usuário através da conexão com uma api, o projeto é simples e objetivo sendo ótimo para treinar datilografia e velocidade.
+Mini project in order to facilitate the manipulation of arrays with a focus on presenting data to the user through the connection with an api, the project is simple and objective being great for training typing and speed.
